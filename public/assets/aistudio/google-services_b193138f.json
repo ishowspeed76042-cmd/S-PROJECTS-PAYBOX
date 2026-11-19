@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "977215279402",
+    "firebase_url": "https://fir-projects-paybox-default-rtdb.firebaseio.com",
+    "project_id": "fir-projects-paybox",
+    "storage_bucket": "fir-projects-paybox.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977215279402:android:f9725dc691a645de0ece53",
+        "android_client_info": {
+          "package_name": "com.aistudio.sprojecyts.paybox.kxmpzq"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPu5OYwTB66sU_rushTAyYUotrN1JOdeU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "S-Projects PayBox",
+  "description": "Automated UPI payment sound box for S-PROJECTS with strict Bluetooth audio routing and FamPay notification detection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
